@@ -10,3 +10,11 @@ Mongodb
 ./gradlew run
 
 ```
+
+## Endpoints
+
+- **<code>POST</code> users**
+- **<code>GET</code> users**
+- **<code>GET</code> users/:id**
+- **<code>PUT</code> users/:id**
+- **<code>DELETE</code> users/:id**
